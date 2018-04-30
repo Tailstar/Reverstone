@@ -7,6 +7,6 @@ import net.minecraftforge.fml.common.registry.GameRegistry;
 public class ModRecipes {
 
     public static void init() {
-        GameRegistry.addSmelting(new ItemStack(Blocks.STONE), new ItemStack(Blocks.COBBLESTONE), 0);
+        GameRegistry.addSmelting(new ItemStack(Blocks.stone), new ItemStack(Blocks.cobblestone), 0);
     }
 }
