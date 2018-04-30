@@ -1,12 +1,12 @@
-![Reverstone Logo](https://i.imgur.com/zKPymTQ.png "Reverstone Logo" =642x)
+![Reverstone Logo](https://i.imgur.com/zKPymTQ.png)
 ### Reverse stone back to cobblestone!
 
 Oversmelt too much cobblestone into stone for your stone bricks? Then look no further than Reverstone! Rather than spending the tedious time and durability of your Efficiency V, Fortune III diamond pickaxe to place and break the stone into cobblestone, you can instead spend your fuel resources
 Have you ever over-smelted cobblestone into stone? Rather than placing it down and breaking it to turn it back into cobblestone, which can take a long time if you have a lot of it, you can just instead place the stone in the furnace, then smelt it to change it back to cobblestone again. Think of it as rather than using your pickaxe durability, you're using your coal or whatever burnable items instead.
 
 ## Screenshots
-![Imgur](https://i.imgur.com/0yDTBHb.png =640x)
-![Imgur](https://i.imgur.com/rSx6UhM.png =640x)
+![Imgur](https://i.imgur.com/0yDTBHb.png)
+![Imgur](https://i.imgur.com/rSx6UhM.png)
 
 ## Links
 * [Minecraft CurseForge](https://minecraft.curseforge.com/projects/reverstone)
