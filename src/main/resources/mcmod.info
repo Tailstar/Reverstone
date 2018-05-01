@@ -3,7 +3,7 @@
   "modid": "reverstone",
   "name": "Reverstone",
   "description": "Reverse stone back to cobblestone!",
-  "version": "1.0.0",
+  "version": "${version}",
   "mcversion": "${mcversion}",
   "url": "https://minecraft.curseforge.com/projects/reverstone",
   "updateUrl": "",
