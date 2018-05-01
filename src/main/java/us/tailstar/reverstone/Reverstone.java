@@ -7,22 +7,18 @@ import net.minecraftforge.fml.common.event.FMLPostInitializationEvent;
 import net.minecraftforge.fml.common.event.FMLPreInitializationEvent;
 import us.tailstar.reverstone.proxy.CommonProxy;
 
-@Mod(modid = Reverstone.modId, name = Reverstone.name, version = Reverstone.version, acceptedMinecraftVersions = "[1.12.2]")
+@Mod(modid = Reference.MODID, name = Reference.NAME, version = Reference.VERSION, acceptedMinecraftVersions = Reference.ACCEPTEDVERSIONS)
 public class Reverstone {
-
-    public static final String modId = "reverstone";
-    public static final String name = "Reverstone";
-    public static final String version = "1.0.0";
 
     @SidedProxy(serverSide = "us.tailstar.reverstone.proxy.CommonProxy", clientSide = "us.tailstar.reverstone.proxy.ClientProxy")
     public static CommonProxy proxy;
 
-    @Mod.Instance(modId)
+    @Mod.Instance(Reference.MODID)
     public static Reverstone instance;
 
     @Mod.EventHandler
     public void preInit(FMLPreInitializationEvent event) {
-        System.out.println(name + " is loading!");
+        System.out.println(Reference.NAME + " is loading!");
     }
 
     @Mod.EventHandler
